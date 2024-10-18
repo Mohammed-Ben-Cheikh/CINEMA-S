@@ -41,6 +41,8 @@ nav ul li {
 
 nav ul li a {
     color: black;
+    font-size: 18px;
+    font-weight: 500;
 }
 
 nav ul li a:hover {
